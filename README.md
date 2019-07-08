@@ -3,7 +3,9 @@
 Documentação introdutória para aplicação das práticas DevOps no contexto
 de Construção de Software.
 
-## Conceito
+## Conceitos
+- _Application Lifecycle Management_
+
 ## Práticas
 
 - Conceito de Colaboração em Equipes
