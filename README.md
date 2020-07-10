@@ -5,7 +5,7 @@ de Construção de Software.
 
 ## Conceitos
 
-- _Continuous Delivery_
+- [_Continuous Delivery_](https://github.com/newtonjose/devops-construcao-software/blob/master/Intro-DevOps/CD.md)
 - _Application Lifecycle Management_
 
 ## Práticas
